@@ -14,7 +14,7 @@ This is a trivia quiz app. If you have another field of expertise such as law or
 <img src= Documentation/ScreenShot1.png  height="375" width="175">      <img src= Documentation/ScreenShot2.png height="375" width="175">
 
 
-## What you I learned with this app
+## What you I learned building this app
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
